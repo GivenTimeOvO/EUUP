@@ -1,0 +1,14 @@
+**/__pycache__
+fcore.egg-info
+*.pyc
+*.egg
+*.egg-info
+*.so
+seg/log
+fcore/dataset/transforms/__pycache__/
+seg/data/
+seg/cache
+log
+__pycache__
+.vscode
+seg/wandb
